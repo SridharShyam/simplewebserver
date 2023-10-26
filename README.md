@@ -62,7 +62,9 @@ Testing the webserver.
 </html>
 ```
 ## OUTPUT:
-![Alt text](image.png)
-![Alt text](image-1.png)
+![image](https://github.com/SridharShyam/simplewebserver/assets/144871368/68c654ac-f765-4f62-9899-211e1a4ca5a2)
+![image](https://github.com/SridharShyam/simplewebserver/assets/144871368/f1977520-5b71-403a-8d42-51b56cf9e0bc)
+
+
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
