@@ -40,22 +40,22 @@ content = """
 			<td> $203.08 billion </td>
 		</tr>
 		<tr>
-			<th> 1. </th>
+			<th> 2. </th>
 			<td> Oracle Corp </td>
 			<td> $46.07 billion </td>
 		</tr>
 		<tr>
-			<th> 1. </th>
+			<th> 3. </th>
 			<td> SAP SE </td>
 			<td>  $32.97 billion </td>
 		</tr>
 		<tr>
-			<th> 1. </th>
+			<th> 4. </th>
 			<td> SALESFORCE Inc </td>
 			<td> $30.29 billion </td>
 		</tr>
 		<tr>
-			<th> 1. </th>
+			<th> 5. </th>
 			<td> Adobe Inc </td>
 			<td> $17.61 billion </td>
 		</tr>
